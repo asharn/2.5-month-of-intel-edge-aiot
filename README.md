@@ -14,4 +14,4 @@ My pledge "#30DaysofUdacity" with Udacity.
   **Completed lesson 3**
 - I encourage @Pawan and @MODF. 
 
-![Day 1](images/Day001.png)
+![Day 1](images/day-01.png)
