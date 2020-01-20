@@ -38,7 +38,7 @@ My pledge "#30DaysofUdacity" with Udacity.
   -**Exercise: Handling Input Streams**
 - I encourage @Tabueu Fotso Laurent and @Shahnoza.
 
-![Day 2 1st](images/day-03_1.png)\
-![Day 2] 2nd(images/day-03_2.png)\
+![Day 2 1st](images/day-03-1.png)\
+![Day 2 2nd](images/day-03-2.png)\
 ![Day 2 output image](images/day-3-output.jpg)\
 ![Day 2 output video](videos/5-4-out.mp4)
