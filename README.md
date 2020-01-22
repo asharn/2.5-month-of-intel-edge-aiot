@@ -38,7 +38,22 @@ My pledge "#30DaysofUdacity" with Udacity.
   -**Exercise: Handling Input Streams**
 - I encourage @Tabueu Fotso Laurent and @Shahnoza.
 
-![Day 2 1st](images/day-03-1.png)\
-![Day 2 2nd](images/day-03-2.png)\
-![Day 2 output image](images/day-3-output.jpg)\
-![Day 2 output video](videos/5-4-out.mp4)
+![Day 3 1st](images/day-03-1.png)\
+![Day 3 2nd](images/day-03-2.png)\
+![Day 3 output image](images/day-3-output.jpg)\
+![Day 3 output video](videos/5-4-out.mp4)
+
+
+
+## Day 4: January 21, 2020. #30DaysofUdacity
+- My current progress is:\
+  **Part 2. Intel® Edge AI Foundation Course** (Progress 80%)\
+  **Lesson 5 - Deploying an Edge App** (Progress 18%)\
+  **Upto 5.5. Exercise completed with below topics**
+  -**Gathering Useful Information from Model Outputs**\
+ - **Intro to MQTT**\
+  -**Communication using MQTT**
+- I encourage @Abhishek Mahajan and @JAYANTI SINGH 
+
+![Day 4 1st](images/day-04-1.png)\
+![Day 4 2nd](images/day-04-2.png)\
