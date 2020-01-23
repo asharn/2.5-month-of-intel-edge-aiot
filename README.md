@@ -44,7 +44,6 @@ My pledge "#30DaysofUdacity" with Udacity.
 ![Day 3 output video](videos/5-4-out.mp4)
 
 
-
 ## Day 4: January 21, 2020. #30DaysofUdacity
 - My current progress is:\
   **Part 2. Intel® Edge AI Foundation Course** (Progress 80%)\
@@ -57,3 +56,20 @@ My pledge "#30DaysofUdacity" with Udacity.
 
 ![Day 4 1st](images/day-04-1.png)\
 ![Day 4 2nd](images/day-04-2.png)\
+
+
+## Day 5: January 22, 2020. #30DaysofUdacity
+- My current progress is:\
+  **Part 2. Intel® Edge AI Foundation Course** (Progress 90%)\
+  **Lesson 5 - Deploying an Edge App** (Progress 60%)\
+  **Upto 5.11. Streaming Images to a Server**
+  - **Revised Intro to MQTT**\
+  - **Revised Communication using MQTT**
+  - **Completed topic Streaming Images to a Server**\
+  - **Completed topic Handling Statistics and Images from a Node Server**\
+  - **Completed topic Exercise: Server Communications**\
+
+- I encourage @aftab and @Vikas Bhandary
+
+![Day 5 1st](images/day-05-1.png)\
+![Day 5 2nd](images/day-05-2.png)\
