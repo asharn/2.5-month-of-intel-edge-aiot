@@ -105,7 +105,19 @@ My pledge "#30DaysofUdacity" with Udacity.
   - **Completed topic Course Recap**
 
 
-- I encourage @Ankit Vashisht @LauraT @Mohan Barathi @Bappi @Avinash Kumar @MCB
+- I encourage @Ankit Vashisht @LauraT @Mohan Barathi @Bappi 
+					@Avinash Kumar @MCB @Aishwarya Nevrekar 
+					@Abdelrahman Amer @Benson Nwarie @Connor Pollock @Frida 
+					@Muhammad.Ali @Qasim Hassan @Frida @aftab @Mai Hassib 
+					@Mary Sadimba @Mai Hassib @Maham.Arif @Muhammad.Ali 
+					@Advaith @Jess @Shreya Chakrabarti @ZackCodesAI @Bala Priya 
+					@Bala Priya @Raamkishore @Rohit_Ghumare @Sayali @Shayekh 
+					@Vikas Bhandary @Ahmed @Shubham Kumar @Prabin Shrestha Phoenix 
+					@Carnage @Dhananjay @Divya Thakur @LauraT @lamiae hana 
+					@Yang @Prabin Shrestha Phoenix @prabhu kumar @RohitVivek 
+					@Magda @Jiemin Wang @EvanO @Hugo Oliveira @Rose Gupta 
+					@Prudo Koff LODONOU @Dina AbdelRahman @Gage Southard 
+					@Sangsaptak Pal @Jongmu Oh #sg_incubator_aiot
 
 ![Day 7 1st](images/day-07-1.png)
 ![Day 7 2nd](images/day-07-2.png)
