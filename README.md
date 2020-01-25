@@ -90,3 +90,25 @@ My pledge "#30DaysofUdacity" with Udacity.
 ![Day 6 1st](images/day-06-1.png)
 ![Day 6 2nd](images/day-06-2.png)
 ![Day 6 3rd](images/day-06-3.png)
+
+
+## Day 7: January 24, 2020. #30DaysofUdacity
+- My current progress is:\
+  **Part 2. Intel® Edge AI Foundation Course** (Progress 98%)\
+  **Lesson 5 - Deploying an Edge App** (Progress 92%)\
+  **Lession 5 completed**
+  - **Revised Analyzing Performance Basics**
+  - **Revised Model Use Cases**
+  - **Completed topic Concerning End User Needs**
+  - **Completed topic Recap**
+  - **Completed topic Lession Glossary**
+  - **Completed topic Course Recap**
+
+
+- I encourage @Ankit Vashisht @LauraT @Mohan Barathi @Bappi @Avinash Kumar @MCB
+
+![Day 7 1st](images/day-07-1.png)
+![Day 7 2nd](images/day-07-2.png)
+![Day 7 3rd](images/day-07-3.png)
+![Day 7 4th](images/day-07-4.png)
+![Certificate of Completion](images/certificate-participant.jpg)
