@@ -124,3 +124,19 @@ My pledge "#30DaysofUdacity" with Udacity.
 ![Day 7 3rd](images/day-07-3.png)
 ![Day 7 4th](images/day-07-4.png)
 ![Certificate of Completion](images/certificate-participant.jpg)
+
+
+## Day 8: January 25, 2020. #30DaysofUdacity
+- My current progress is:\
+  **Completed Part 2. Intel® Edge AI Foundation Course** (Progress 100%)\
+  **Revision for Part 2. Intel® Edge AI Foundation Course started from lesson 2 to 5 ** (Progress 5%)\
+  **Enrolled new course Introduction to Computer Vision in udacity**
+  - **Completed first lesson of Computer Vision**
+  - **Completed second lesson started**
+
+
+- I encourage @Ankit Vashisht @LauraT @Mohan Barathi @Bappi @Avinash Kumar
+
+![Day 8 1st](images/day-07-1.png)
+![Day 8 2nd](images/day-07-2.png)
+![Day 8 3rd](images/day-07-3.png)
