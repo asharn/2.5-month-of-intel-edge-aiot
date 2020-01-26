@@ -137,6 +137,6 @@ My pledge "#30DaysofUdacity" with Udacity.
 
 - I encourage @Ankit Vashisht @LauraT @Mohan Barathi @Bappi @Avinash Kumar
 
-![Day 8 1st](images/day-07-1.png)
-![Day 8 2nd](images/day-07-2.png)
-![Day 8 3rd](images/day-07-3.png)
+![Day 8 1st](images/day-08-1.png)
+![Day 8 2nd](images/day-08-2.png)
+![Day 8 3rd](images/day-08-3.png)
