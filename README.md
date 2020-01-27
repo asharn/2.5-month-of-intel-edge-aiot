@@ -140,3 +140,12 @@ My pledge "#30DaysofUdacity" with Udacity.
 ![Day 8 1st](images/day-08-1.png)
 ![Day 8 2nd](images/day-08-2.png)
 ![Day 8 3rd](images/day-08-3.png)
+
+
+## Day 9: January 26, 2020. #30DaysofUdacity
+- Articles and research papers:\
+  - ![**Image Classification vs. Object Detection vs. Image Segmentation**](https://medium.com/analytics-vidhya/image-classification-vs-object-detection-vs-image-segmentation-f36db85fe81)
+  - ![**The Single Shot Multibox Detector (SSD) model**](https://arxiv.org/abs/1512.02325)
+
+
+- I encourage @Nbenjamin @Christian @Akash Singh @VISHNU VARDHAN REDDY @Patsy
