@@ -149,3 +149,21 @@ My pledge "#30DaysofUdacity" with Udacity.
 
 
 - I encourage @Nbenjamin @Christian @Akash Singh @VISHNU VARDHAN REDDY @Patsy
+
+
+## Day 10: January 27, 2020. #30DaysofUdacity
+- Research papers:\
+  - ![**You Only Look Once: YOLO**](https://arxiv.org/abs/1506.02640)
+  - ![**Faster R-CNN: Towards Real-Time ObjectDetection with Region Proposal Networks**](https://arxiv.org/abs/1506.01497)
+
+
+- I will encourage random folks @Yang @Prabin Shrestha Phoenix @prabhu kumar @RohitVivek
+					@Magda @Jiemin Wang @EvanO @Hugo Oliveira
+					@Prudo Koff LODONOU @Dina AbdelRahman @Gage Southard
+					@Sangsaptak Pal @Jongmu Oh #sg_incubator_aiot
+					@Nbenjamin @Christian @Akash Singh 
+					@VISHNU VARDHAN REDDY @Patsy 
+					to study deep these papers.
+
+![Day 10 1st](images/day-10-1.png)
+![Day 10 2nd](images/day-10-2.png)
