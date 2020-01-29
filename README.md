@@ -167,3 +167,27 @@ My pledge "#30DaysofUdacity" with Udacity.
 
 ![Day 10 1st](images/day-10-1.png)
 ![Day 10 2nd](images/day-10-2.png)
+
+
+## Day 11: January 28, 2020. #30DaysofUdacity
+- Research papers:\
+  - ![**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**](https://arxiv.org/pdf/1704.04861.pdf)
+  - Again study and setup system to practice on local : ![**Faster R-CNN: Towards Real-Time ObjectDetection with Region Proposal Networks**](https://arxiv.org/abs/1506.01497)
+  - **Open-Source Contribution git & Github Session**
+  	- Part1:  ![**Basic about Git and Github**](https://youtu.be/9Fo8bSKJpFk)
+	- Part2:  ![**Open-Source Contribution, Licences, workflow and QA session**](https://youtu.be/1CbXqQCugD0)
+
+- **Recommendation to visit Part2. It's very informative.**
+
+- I will encourage random folks @Jess @Sheldon @Shahnoza @Mobasshir Bhuiyan @Bala Priya 
+                                @Ankita Kesari @Neha Soni @Hein@realrajanpaudel
+				@Nikita Mahajan  @Juber Rahman @OS_the_Person_
+				@Abhishek Kovuri @Vidhi @Martin-Philipp Irsch @Xander
+				@Rimon @Jorge Andrés Hernández Jara @cristian.cucchiella 
+				@Celestine Okonkwo @K.S. @Mohan Barathi @MCB @Ankit Vashisht 
+				@Avinash Kumar @LauraT @Lesliel @Arka @Marco_ @Bappi
+					to study deep these papers.
+
+![Day 11 1st](images/day-11-1.png)
+![Day 11 2nd](images/day-11-2.png)
+![Day 11 3rd](images/day-11-3.png)
