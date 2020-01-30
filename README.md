@@ -144,8 +144,8 @@ My pledge "#30DaysofUdacity" with Udacity.
 
 ## Day 9: January 26, 2020. #30DaysofUdacity
 - Articles and research papers:\
-  - ![**Image Classification vs. Object Detection vs. Image Segmentation**](https://medium.com/analytics-vidhya/image-classification-vs-object-detection-vs-image-segmentation-f36db85fe81)
-  - ![**The Single Shot Multibox Detector (SSD) model**](https://arxiv.org/abs/1512.02325)
+  - [**Image Classification vs. Object Detection vs. Image Segmentation**](https://medium.com/analytics-vidhya/image-classification-vs-object-detection-vs-image-segmentation-f36db85fe81)
+  - [**The Single Shot Multibox Detector (SSD) model**](https://arxiv.org/abs/1512.02325)
 
 
 - I encourage @Nbenjamin @Christian @Akash Singh @VISHNU VARDHAN REDDY @Patsy
@@ -153,8 +153,8 @@ My pledge "#30DaysofUdacity" with Udacity.
 
 ## Day 10: January 27, 2020. #30DaysofUdacity
 - Research papers:\
-  - ![**You Only Look Once: YOLO**](https://arxiv.org/abs/1506.02640)
-  - ![**Faster R-CNN: Towards Real-Time ObjectDetection with Region Proposal Networks**](https://arxiv.org/abs/1506.01497)
+  - [**You Only Look Once: YOLO**](https://arxiv.org/abs/1506.02640)
+  - [**Faster R-CNN: Towards Real-Time ObjectDetection with Region Proposal Networks**](https://arxiv.org/abs/1506.01497)
 
 
 - I will encourage random folks @Yang @Prabin Shrestha Phoenix @prabhu kumar @RohitVivek
@@ -171,11 +171,11 @@ My pledge "#30DaysofUdacity" with Udacity.
 
 ## Day 11: January 28, 2020. #30DaysofUdacity
 - Research papers:\
-  - ![**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**](https://arxiv.org/pdf/1704.04861.pdf)
-  - Again study and setup system to practice on local : ![**Faster R-CNN: Towards Real-Time ObjectDetection with Region Proposal Networks**](https://arxiv.org/abs/1506.01497)
+  - [**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**](https://arxiv.org/pdf/1704.04861.pdf)
+  - Again study and setup system to practice on local : [**Faster R-CNN: Towards Real-Time ObjectDetection with Region Proposal Networks**](https://arxiv.org/abs/1506.01497)
   - **Open-Source Contribution git & Github Session**
-  	- Part1:  ![**Basic about Git and Github**](https://youtu.be/9Fo8bSKJpFk)
-	- Part2:  ![**Open-Source Contribution, Licences, workflow and QA session**](https://youtu.be/1CbXqQCugD0)
+  	- Part1:  [**Basic about Git and Github**](https://youtu.be/9Fo8bSKJpFk)
+	- Part2:  [**Open-Source Contribution, Licences, workflow and QA session**](https://youtu.be/1CbXqQCugD0)
 
 - **Recommendation to visit Part2. It's very informative.**
 
@@ -191,3 +191,12 @@ My pledge "#30DaysofUdacity" with Udacity.
 ![Day 11 1st](images/day-11-1.png)
 ![Day 11 2nd](images/day-11-2.png)
 ![Day 11 3rd](images/day-11-3.png)
+
+
+## Day 12: January 29, 2020. #30DaysofUdacity
+- Research papers:\
+  - Completed: [**ResNet: Deep Residual Learning for Image Recognition**](https://arxiv.org/abs/1512.03385)
+  - Completed: [**Inception: Going deeper with convolutions**](https://arxiv.org/pdf/1409.4842.pdf)
+  - Code practice realted to these papers need to be done.
+- I will encourage random folks @Jess @Sheldon @Mobasshir Bhuiyan @Bala Priya 
+                                @Hein @realrajanpaudel to study deep these papers.
