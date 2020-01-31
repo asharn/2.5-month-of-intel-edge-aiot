@@ -200,3 +200,19 @@ My pledge "#30DaysofUdacity" with Udacity.
   - Code practice realted to these papers need to be done.
 - I will encourage random folks @Jess @Sheldon @Mobasshir Bhuiyan @Bala Priya 
                                 @Hein @realrajanpaudel to study deep these papers.
+
+
+
+## Day 13: January 30, 2020. #30DaysofUdacity
+- Article and Research paper:\
+  - [**Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning**](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)
+  - [**Going beyond the bounding box with semantic segmentation**](https://thegradient.pub/semantic-segmentation/)
+
+
+- I will encourage random folks @Anna Scott @arundhatee @Clinton B @Ahmed
+					@Magda @Adriana Chen @EvanO @Hugo Oliveira
+					@Aitor @Alex Ho 
+					to study deep these papers.
+
+![Day 13 1st](images/day-13-1.png)
+![Day 13 2nd](images/day-13-2.png)
