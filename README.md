@@ -216,3 +216,22 @@ My pledge "#30DaysofUdacity" with Udacity.
 
 ![Day 13 1st](images/day-13-1.png)
 ![Day 13 2nd](images/day-13-2.png)
+
+
+## Day 14: January 31, 2020. #30DaysofUdacity
+- Article and Research paper:\
+  - [**Model Optimizer Developer Guide**](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_Deep_Learning_Model_Optimizer_DevGuide.html)
+  - [**Quantization**](https://nervanasystems.github.io/distiller/quantization.html/)
+  - [**Model Optimization Techniques**](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_Model_Optimization_Techniques.html)
+
+
+- I will encourage some folks @Akash Singh @Rohit.intelai @Shreya Chakrabarti 
+					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott 
+					@arundhatee @Clinton B @Ahmed@Nikita Mahajan  
+					@Magda @Adriana Chen @EvanO @Hugo Oliveira
+					@Aitor @Alex Ho @Neha Soni @Hein@realrajanpaudel
+					@Juber Rahman to study deep these papers.
+
+![Day 14 1st](images/day-14-1.png)
+![Day 14 2nd](images/day-14-2.png)
+![Day 14 3rd](images/day-14-3.png)
