@@ -235,3 +235,22 @@ My pledge "#30DaysofUdacity" with Udacity.
 ![Day 14 1st](images/day-14-1.png)
 ![Day 14 2nd](images/day-14-2.png)
 ![Day 14 3rd](images/day-14-3.png)
+
+## Day 15: February 2nd, 2020. #30DaysofUdacity
+I countinue the callenge #30DaysofUdacity after one day of rest on 1st Feb 2020.
+- Study deep on the following frameworks:\
+  - [**Caffe**](https://caffe.berkeleyvision.org/)
+  - [**TensorFlow**](https://www.tensorflow.org/)
+	- [**What the Hell is “Tensor” in “TensorFlow”?**](https://hackernoon.com/what-the-hell-is-tensor-in-tensorflow-e40dbf0253ee)
+	- [**TensorFlow, why was python the chosen language?**](https://stackoverflow.com/questions/35677724/tensorflow-why-was-python-the-chosen-language)	
+
+- I will encourage some folks @Akash Singh @Rohit.intelai @Shreya Chakrabarti 
+					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott 
+					@arundhatee @Clinton B @Ahmed@Nikita Mahajan  
+					@Magda @Adriana Chen @EvanO @Hugo Oliveira
+					@Aitor @Alex Ho @Neha Soni @Hein@realrajanpaudel
+					@Juber Rahman @barbear to study deep these papers.
+
+![Day 15 1st](images/day-15-1.png)
+![Day 15 2nd](images/day-15-2.png)
+![Day 15 3rd](images/day-15-3.png)
