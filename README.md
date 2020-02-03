@@ -237,7 +237,7 @@ My pledge "#30DaysofUdacity" with Udacity.
 ![Day 14 3rd](images/day-14-3.png)
 
 ## Day 15: February 2nd, 2020. #30DaysofUdacity
-I countinue the callenge #30DaysofUdacity after one day of rest on 1st Feb 2020.
+I continue the challenge #30DaysofUdacity after one day of rest on 1st Feb 2020.
 - Study deep on the following frameworks:\
   - [**Caffe**](https://caffe.berkeleyvision.org/)
   - [**TensorFlow**](https://www.tensorflow.org/)
