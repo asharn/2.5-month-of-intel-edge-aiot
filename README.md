@@ -254,3 +254,13 @@ I continue the challenge #30DaysofUdacity after one day of rest on 1st Feb 2020.
 ![Day 15 1st](images/day-15-1.png)
 ![Day 15 2nd](images/day-15-2.png)
 ![Day 15 3rd](images/day-15-3.png)
+
+
+## Day 16: February 3rd, 2020. #30DaysofUdacity
+I am going through all references material present within course.
+- Study deep on the following frameworks:\
+  - [**MXNet**](https://mxnet.apache.org/)
+  	- [**MXNet: A Flexible and Efficient Machine LearningLibrary for Heterogeneous Distributed Systems**](https://www.cs.cmu.edu/~muli/file/mxnet-learning-sys.pdf)	
+  - [**ONNX**](https://onnx.ai/)
+	- [**What every ML/AI developer should know about ONNX**](https://blog.paperspace.com/what-every-ml-ai-developer-should-know-about-onnx/)
+
