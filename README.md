@@ -264,3 +264,26 @@ I am going through all references material present within course.
   - [**ONNX**](https://onnx.ai/)
 	- [**What every ML/AI developer should know about ONNX**](https://blog.paperspace.com/what-every-ml-ai-developer-should-know-about-onnx/)
 
+
+## Day 17: February 4th, 2020. #30DaysofUdacity
+I am going through all references material present within course in deep.
+- Study deep on the following frameworks:\
+  - [**Converting a Model to Intermediate Representation (IR)**](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Converting_Model.html)
+  - [**Supported Framework Layers**](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_Supported_Frameworks_Layers.html)
+  - [**Intermediate Representation Notation Reference Catalog**](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_IRLayersCatalogSpec.html)
+	- [**Activation Layer**]
+	- [**ArgMax Layer**]
+	- [**BatchNormalization Layer**]
+	- [**BinaryConvolution Layer**]
+	- [**Broadcast Layer**]
+
+- I will encourage some folks @Akash Singh @Rohit.intelai @Shreya Chakrabarti 
+					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott 
+					@arundhatee @Clinton B @Ahmed@Nikita Mahajan  
+					@Magda @Adriana Chen @EvanO @Hugo Oliveira
+					@Aitor @Alex Ho @Neha Soni @Hein@realrajanpaudel
+					@Juber Rahman @barbear to study deep these papers.
+
+![Day 17 1st](images/day-17-1.png)
+![Day 17 2nd](images/day-17-2.png)
+![Day 17 3rd](images/day-17-3.png)
