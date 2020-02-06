@@ -287,3 +287,26 @@ I am going through all references material present within course in deep.
 ![Day 17 1st](images/day-17-1.png)
 ![Day 17 2nd](images/day-17-2.png)
 ![Day 17 3rd](images/day-17-3.png)
+
+
+## Day 18: February 5th, 2020. #30DaysofUdacity
+I am going through all references material present within course in deep.
+- Further Research:
+  - [**Converting a TensorFlow* Model**](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_TensorFlow.html)
+  In this document, I learned:
+		- Basic information about how the Model Optimizer works with TensorFlow* models
+		- Which TensorFlow models are supported
+		- How to freeze a TensorFlow model
+		- How to convert a trained TensorFlow model using the Model Optimizer with both framework-agnostic and TensorFlow-specific command-line options
+
+  - [**Tensorflow detection model zoo**](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md#tensorflow-detection-model-zoo)
+
+- I will encourage some folks @Akash Singh @Rohit.intelai @Shreya Chakrabarti 
+					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott 
+					@arundhatee @Clinton B @Ahmed@Nikita Mahajan  
+					@Magda @Adriana Chen @EvanO @Hugo Oliveira
+					@Aitor @Alex Ho @Neha Soni @Hein@realrajanpaudel
+					@Juber Rahman @barbear to study deep these papers.
+
+![Day 18 1st](images/day-18-1.png)
+![Day 18 2nd](images/day-18-2.png)
