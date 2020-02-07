@@ -310,3 +310,31 @@ I am going through all references material present within course in deep.
 
 ![Day 18 1st](images/day-18-1.png)
 ![Day 18 2nd](images/day-18-2.png)
+
+
+## Day 19: February 6th, 2020. #30DaysofUdacity
+I am going through all references material present within course in deep.
+- Further Research:
+  - [**Converting a Caffe\* Model**](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_Caffe.html)\
+  In this document, I learned:
+	- Basic information about how the Model Optimizer works with Caffe* models
+	- Which Caffe* models are supported
+	- How to convert a trained Caffe* model using the Model Optimizer with both framework-agnostic and Caffe-specific command-line options 
+	- Study some more articles and research paper
+
+  - [**Converting a ONNX\* Model **](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_ONNX.html)
+    In this document, I learned:
+	- Basic information about how the Model Optimizer works with ONNX* models
+	- Which ONNX* models are supported
+	- Supported Pytorch*, PaddlePaddle* Models via ONNX Conversion
+	- Study some more articles and research paper
+
+- I will encourage awesome folks who are going great @Akash Singh @Rohit.intelai @Shreya Chakrabarti 
+					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott 
+					@arundhatee @Clinton B @Ahmed@Nikita Mahajan  
+					@Magda @Adriana Chen @EvanO @Hugo Oliveira
+					@Aitor @Alex Ho @Neha Soni @Hein@realrajanpaudel
+					@Juber Rahman @bearbear.
+
+![Day 19 1st](images/day-19-1.png)
+![Day 19 2nd](images/day-19-2.png)
