@@ -356,7 +356,8 @@ I am going through all references material present within course in deep.
 
 		- Other
 			- Visual Question Answering & Dialog
-  - I get inspired and motivated by the work @Akash Singh @Rohit.intelai @Shreya Chakrabarti
+  - I get inspired and motivated by the work @Juan Carlos Kuri Pinto is doing. YOU ARE AWESOME KEEP IT UP :)
+  - I will encourage awesome folks who are going great  @Akash Singh @Rohit.intelai @Shreya Chakrabarti
 					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott
 					@arundhatee @Clinton B B @Ahmed @Nikita Mahajan
 					@Magda @Adriana Chen @EvanO @Hugo Oliveira
