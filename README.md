@@ -322,7 +322,7 @@ I am going through all references material present within course in deep.
 	- How to convert a trained Caffe* model using the Model Optimizer with both framework-agnostic and Caffe-specific command-line options 
 	- Study some more articles and research paper
 
-  - [**Converting a ONNX\* Model **](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_ONNX.html)
+  - [**Converting a ONNX\* Model**](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_ONNX.html)
     In this document, I learned:
 	- Basic information about how the Model Optimizer works with ONNX* models
 	- Which ONNX* models are supported
@@ -338,3 +338,31 @@ I am going through all references material present within course in deep.
 
 ![Day 19 1st](images/day-19-1.png)
 ![Day 19 2nd](images/day-19-2.png)
+
+
+## Day 20: February 7th, 2020. #30DaysofUdacity
+I am going through all references material present within course in deep.
+- Further Research:
+  - [**ONNX also has additional models available in the ONNX Model Zoo**](https://github.com/onnx/models)\
+  In this document, I learned:
+	- The ONNX Model Zoo is a collection of pre-trained, state-of-the-art models in the ONNX format
+		- Vision
+			 - Image Classification
+			 - Object Detection & Image Segmentation
+			 - Body, Face & Gesture Analysis
+	   
+		- Language
+			- Machine Translation
+
+		- Other
+			- Visual Question Answering & Dialog
+  - I get inspired and motivated by the work @Akash Singh @Rohit.intelai @Shreya Chakrabarti
+					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott
+					@arundhatee @Clinton B B @Ahmed @Nikita Mahajan
+					@Magda @Adriana Chen @EvanO @Hugo Oliveira
+					@Neha Soni @Hein@realrajanpaudel
+					@Juber Rahman @Bearbear@Tchouanga @Richárd Ádám Vécsey Dr.
+                    @Asad Ur Rahman @Marco_ @Irina_Gr @Emeka @Boris @Filipe Queiroz
+                    @Anna Scott @María V @N. Hussain @nagendra_init @AndyP @Boris @Ankita Kesari@Nada Aweaa.
+
+![Day 20 1st](images/day-20-1.png) 	
