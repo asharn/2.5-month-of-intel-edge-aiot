@@ -359,7 +359,7 @@ I am going through all references material present within course in deep.
   - I get inspired and motivated by the work @Juan Carlos Kuri Pinto is doing. YOU ARE AWESOME KEEP IT UP :)
   - I will encourage awesome folks who are going great  @Akash Singh @Rohit.intelai @Shreya Chakrabarti
 					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott
-					@arundhatee @Clinton B B @Ahmed @Nikita Mahajan
+					@arundhatee @Clinton B @Ahmed @Nikita Mahajan
 					@Magda @Adriana Chen @EvanO @Hugo Oliveira
 					@Neha Soni @Hein@realrajanpaudel
 					@Juber Rahman @Bearbear@Tchouanga @Richárd Ádám Vécsey Dr.
@@ -367,3 +367,25 @@ I am going through all references material present within course in deep.
                     @Anna Scott @María V @N. Hussain @nagendra_init @AndyP @Boris @Ankita Kesari@Nada Aweaa.
 
 ![Day 20 1st](images/day-20-1.png) 	
+
+
+## Day 21: February 8th, 2020. #30DaysofUdacity
+I am going through all references material present within course in deep.
+- Further Research:
+  - [**Cutting Off Parts of a Model**](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Cutting_Model.html)\
+  - [**Custom Layers in the Model Optimizer**](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_customize_model_optimizer_Customize_Model_Optimizer.html)
+  
+  - I will encourage awesome folks who are going great  @Akash Singh @Rohit.intelai @Shreya Chakrabarti
+					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott
+					@arundhatee @Clinton B @Ahmed @Nikita Mahajan
+					@Magda @Adriana Chen @EvanO @Hugo Oliveira
+					@Neha Soni @Hein@realrajanpaudel
+					@Juber Rahman @Bearbear@Tchouanga @Richárd Ádám Vécsey Dr.
+                    @Asad Ur Rahman @Marco_ @Irina_Gr @Emeka @Boris @Filipe Queiroz
+                    @Anna Scott @María V @N. Hussain @nagendra_init @AndyP @Boris @Ankita Kesari@Nada Aweaa.
+					@Fabrizio Cacicia @rodbelisario @kareem.h @Jorge Andrés Hernández Jara @Gustavo94 @Richárd Ádám Vécsey Dr. 
+					@Fernando Terrazas @HUY DUC VO @Juan Jose Moreno Guadamur @Faisal Raza Khan @Edna Sawe
+					
+![Day 21 1st](images/day-21-1.png) 	
+![Day 21 2nt](images/day-21-2.png) 	
+
