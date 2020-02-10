@@ -389,3 +389,33 @@ I am going through all references material present within course in deep.
 ![Day 21 1st](images/day-21-1.png) 	
 ![Day 21 2nt](images/day-21-2.png) 	
 
+
+## Day 22: February 9th, 2020. #30DaysofUdacity
+I am going through all references material present within course in deep.
+- Further Research links present at last lines of 4.7: Sending Inference Requests to the IE are not working:
+  - [**Executable Network documentation**](https://docs.openvinotoolkit.org/latest/classie__api_1_1ExecutableNetwork.html)\
+  - [**Infer Request documentation**](https://docs.openvinotoolkit.org/latest/classie__api_1_1InferRequest.html)
+- Further Research links present at last lines of 4.3: Using the Inference Engine with an IR are not working:
+  - [**IE Python API**](https://docs.openvinotoolkit.org/latest/ie_python_api.html)\
+  - [**IE Network**](https://docs.openvinotoolkit.org/latest/classie__api_1_1IENetwork.html)\
+  - [**IE Core**](https://docs.openvinotoolkit.org/latest/classie__api_1_1IECore.html)\
+
+- Read these contents:
+  - [**Supported Devices and their Optimal Configurations**](https://docs.openvinotoolkit.org/latest/_docs_IE_DG_supported_plugins_Supported_Devices.html)
+  - [**Synchronous vs. Asynchronous API's**](https://docs.openvinotoolkit.org/latest/_docs_IE_DG_supported_plugins_Supported_Devices.html)
+  
+  - I will encourage awesome folks who are going great  @Akash Singh @Rohit.intelai @Shreya Chakrabarti
+					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott
+					@arundhatee @Clinton B @Ahmed @Nikita Mahajan
+					@Magda @Adriana Chen @EvanO @Hugo Oliveira
+					@Neha Soni @Hein@realrajanpaudel
+					@Juber Rahman @Bearbear@Tchouanga @Richárd Ádám Vécsey Dr.
+                    @Asad Ur Rahman @Marco_ @Irina_Gr @Emeka @Boris @Filipe Queiroz
+                    @Anna Scott @María V @N. Hussain @nagendra_init @AndyP @Boris @Ankita Kesari@Nada Aweaa.
+					@Fabrizio Cacicia @rodbelisario @kareem.h @Jorge Andrés Hernández Jara @Gustavo94 @Richárd Ádám Vécsey Dr. 
+					@Fernando Terrazas @HUY DUC VO @Juan Jose Moreno Guadamur @Faisal Raza Khan @Edna Sawe
+					@Ife Ade @Filipe Queiroz @Wonde @Richárd Ádám Vécsey Dr.@Deep Khurana @Bhuvaneswari
+					
+![Day 22 1st](images/day-22-1.png) 	
+![Day 22 2nt](images/day-22-2.png) 	
+
