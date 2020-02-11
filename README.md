@@ -419,3 +419,27 @@ I am going through all references material present within course in deep.
 ![Day 22 1st](images/day-22-1.png) 	
 ![Day 22 2nt](images/day-22-2.png) 	
 
+
+
+## Day 23: February 10th, 2020. #30DaysofUdacity
+I am going through all references material present within course in deep.
+- Further Research everyone must read:
+  - [**Integrate the Inference Engine with Your Application**](https://docs.openvinotoolkit.org/latest/_docs_IE_DG_Integrate_with_customer_application_new_API.html)
+  - [**Object Detection SSD C++ Demo, Async API Performance Showcase**](https://github.com/opencv/open_model_zoo/blob/master/demos/object_detection_demo_ssd_async/README.md)
+  
+  - I will encourage awesome folks who are going great  
+					@Akash Singh @Rohit.intelai @Shreya Chakrabarti
+					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott
+					@arundhatee @Clinton B @Ahmed @Nikita 
+					@Magda @Adriana Chen @EvanO @Hugo Oliveira
+					@Neha Soni @Hein@realrajanpaudel
+					@Juber Rahman @Bearbear@Tchouanga @Richárd Ádám Vécsey Dr.
+                    @Asad Ur Rahman @Marco_ @Irina_Gr @Emeka @Boris @Filipe Queiroz 
+                    @Anna Scott @María V @N. Hussain @nagendra_init @AndyP @Boris @Ankita Kesari@Nada Aweaa.
+					@Fabrizio Cacicia @rodbelisario @kareem.h @Jorge Andrés Hernández Jara @Gustavo94 @Richárd Ádám Vécsey Dr.
+					@Fernando Terrazas @HUY DUC VO @Juan Jose Moreno Guadamur @MODF @Faisal Raza Khan @Edna Sawe
+					@Ife Ade @Filipe Queiroz  @Wonde @Richárd Ádám Vécsey Dr.@Deep Khurana @Bhuvaneswari
+					
+![Day 23 1st](images/day-23-1.png) 	
+![Day 23 2nd](images/day-23-2.png) 	
+
