@@ -438,8 +438,37 @@ I am going through all references material present within course in deep.
                     @Anna Scott @María V @N. Hussain @nagendra_init @AndyP @Boris @Ankita Kesari@Nada Aweaa.
 					@Fabrizio Cacicia @rodbelisario @kareem.h @Jorge Andrés Hernández Jara @Gustavo94 @Richárd Ádám Vécsey Dr.
 					@Fernando Terrazas @HUY DUC VO @Juan Jose Moreno Guadamur @MODF @Faisal Raza Khan @Edna Sawe
-					@Ife Ade @Filipe Queiroz  @Wonde @Richárd Ádám Vécsey Dr.@Deep Khurana @Bhuvaneswari
+					@Ife Ade @Filipe Queiroz  @Wonde @Richárd Ádám Vécsey Dr.@Deep Khurana @Bhuvaneswari @Odaliz Balcazar @davisclick 
+					@Athanasios Alexopoulos @Atul Awasthi @Stanislav Ladyzhenskiy @Nikhil Tiwari @shahidaac 
 					
 ![Day 23 1st](images/day-23-1.png) 	
 ![Day 23 2nd](images/day-23-2.png) 	
+
+
+## Day 24: February 11th, 2020. #30DaysofUdacity
+I am going through all references material present within course in deep.
+- Further Research as good stuffs:
+  - [**Intel®’s IoT Apps Across Industries**](https://www.intel.com/content/www/us/en/internet-of-things/industry-solutions.html)
+		- [**Powering a Revolution in Driving**](https://www.intel.com/content/www/us/en/automotive/automotive-overview.html)
+		- [**Smart Homes with Intel® Internet of Things (IoT) Technologies**](https://www.intel.com/content/www/us/en/internet-of-things/smart-home.html)
+  - [**The Ultimate Guide To Starting Your First IoT Project**](https://hackernoon.com/the-ultimate-guide-to-starting-your-first-iot-project-8b0644fbbe6d)
+  
+  - I will encourage awesome folks who are going great  
+					@Akash Singh @Rohit.intelai @Shreya Chakrabarti
+					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott
+					@arundhatee @Clinton B @Ahmed @Nikita 
+					@Magda @Adriana Chen @EvanO @Hugo Oliveira
+					@Neha Soni @Hein@realrajanpaudel
+					@Juber Rahman @Bearbear@Tchouanga @Richárd Ádám Vécsey Dr.
+                    @Asad Ur Rahman @Marco_ @Irina_Gr @Emeka @Boris @Filipe Queiroz 
+                    @Anna Scott @María V @N. Hussain @nagendra_init @AndyP @Boris @Ankita Kesari@Nada Aweaa.
+					@Fabrizio Cacicia @rodbelisario @kareem.h @Jorge Andrés Hernández Jara @Gustavo94 @Richárd Ádám Vécsey Dr.
+					@Fernando Terrazas @HUY DUC VO @Juan Jose Moreno Guadamur @MODF @Faisal Raza Khan @Edna Sawe
+					@Ife Ade @Filipe Queiroz  @Wonde @Richárd Ádám Vécsey Dr.@Deep Khurana @Bhuvaneswari @Odaliz Balcazar @davisclick 
+					@Athanasios Alexopoulos @Atul Awasthi @Stanislav Ladyzhenskiy @Nikhil Tiwari @shahidaac @Edgardo Peregrino @Lakshya Malhotra
+					
+![Day 24 1st](images/day-24-1.png) 	
+![Day 24 2nd](images/day-24-2.png) 	
+![Day 24 2rd](images/day-24-3.png) 	
+
 
