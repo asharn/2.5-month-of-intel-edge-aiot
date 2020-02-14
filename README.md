@@ -500,3 +500,30 @@ I am going through all references material present within course in deep.
 ![Day 25 3rd](images/day-25-3.png) 
 
 
+## Day 26: February 13th, 2020. #30DaysofUdacity
+I am going through all references material present within course in deep.
+- Further Research:
+  - [**What is the best programming language for Machine Learning?**](https://towardsdatascience.com/what-is-the-best-programming-language-for-machine-learning-a745c156d6b7)\
+  - [**Optimization Guide**](https://docs.openvinotoolkit.org/latest/_docs_optimization_guide_dldt_optimization_guide.html).
+  
+  - I will encourage awesome folks who are going great  
+					@Akash Singh @Rohit.intelai @Shreya Chakrabarti
+					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott
+					@arundhatee @Clinton B @Ahmed @Nikita 
+					@Magda @Adriana Chen @EvanO @Hugo Oliveira
+					@Neha Soni @Hein@realrajanpaudel
+					@Juber Rahman @Bearbear@Tchouanga @Richárd Ádám Vécsey Dr.
+                    @Asad Ur Rahman @Marco_ @Irina_Gr @Emeka @Boris @Filipe Queiroz 
+                    @Anna Scott @María V @N. Hussain @nagendra_init @AndyP @Boris @Ankita Kesari@Nada Aweaa.
+					@Fabrizio Cacicia @rodbelisario @kareem.h @Jorge Andrés Hernández Jara @Gustavo94 @Richárd Ádám Vécsey Dr.
+					@Fernando Terrazas @HUY DUC VO @Juan Jose Moreno Guadamur @MODF @Faisal Raza Khan @Edna Sawe
+					@Ife Ade @Filipe Queiroz  @Wonde @Richárd Ádám Vécsey Dr.@Deep Khurana @Bhuvaneswari @Odaliz Balcazar @davisclick 
+					@Athanasios Alexopoulos @Atul Awasthi @Stanislav Ladyzhenskiy @Nikhil Tiwari @shahidaac @Edgardo Peregrino @Lakshya Malhotra
+					@D.RICHARD @Muhammad Haris @Mfatikk @Sijoon Lee @Jorge Andrés Hernández Jara @Marcos Bellezi @Axel @Richárd Ádám Vécsey Dr. 
+					@David Francisco Dávila Ortega @Fabrizio Cacicia @HUY DUC VO @Hendrawan @Honoré @Nimisha Wagle @Mayur Kanojiya @A.Hamido
+					@Lakshya Malhotra @Robotjelly
+					
+![Day 26 1st](images/day-26-1.png) 	
+![Day 26 2nd](images/day-26-2.png) 	
+
+
