@@ -500,11 +500,12 @@ I am going through all references material present within course in deep.
 ![Day 25 3rd](images/day-25-3.png) 
 
 
-## Day 26: February 13th, 2020. #30DaysofUdacity
+## Day 267: February 14th, 2020. #30DaysofUdacity
 I am going through all references material present within course in deep.
 - Further Research:
-  - [**What is the best programming language for Machine Learning?**](https://towardsdatascience.com/what-is-the-best-programming-language-for-machine-learning-a745c156d6b7)\
-  - [**Optimization Guide**](https://docs.openvinotoolkit.org/latest/_docs_optimization_guide_dldt_optimization_guide.html).
+  - [**Dive deeper into OpenCV one of the useful computer vision library.**](https://docs.opencv.org/master/d9/df8/tutorial_root.html)\
+  - [**MATLAB vs. OpenCV or Which is the best opencv or matlab for image processing?**](https://stackoverflow.com/questions/21574313/matlab-vs-opencv)\
+  - [**What is OpenCV and why is it so popular?**](https://medium.com/analytics-vidhya/what-and-why-opencv-3b807ade73a0)
   
   - I will encourage awesome folks who are going great  
 					@Akash Singh @Rohit.intelai @Shreya Chakrabarti
@@ -523,7 +524,7 @@ I am going through all references material present within course in deep.
 					@David Francisco Dávila Ortega @Fabrizio Cacicia @HUY DUC VO @Hendrawan @Honoré @Nimisha Wagle @Mayur Kanojiya @A.Hamido
 					@Lakshya Malhotra @Robotjelly
 					
-![Day 26 1st](images/day-26-1.png) 	
-![Day 26 2nd](images/day-26-2.png) 	
+![Day 27 1st](images/day-27-1.png) 	
+![Day 27 2nd](images/day-27-2.png) 	
 
 
