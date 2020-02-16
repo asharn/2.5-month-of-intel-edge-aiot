@@ -499,8 +499,32 @@ I am going through all references material present within course in deep.
 ![Day 25 2nd](images/day-25-2.png) 	
 ![Day 25 3rd](images/day-25-3.png) 
 
+## Day 26: February 13th, 2020. #30DaysofUdacity
+I am going through all references material present within course in deep.
+- Further Research:
+  - [**What is the best programming language for Machine Learning?**](https://towardsdatascience.com/what-is-the-best-programming-language-for-machine-learning-a745c156d6b7)\
+  - [**Optimization Guide**](https://docs.openvinotoolkit.org/latest/_docs_optimization_guide_dldt_optimization_guide.html).
+  - I will encourage awesome folks who are going great
+					@Akash Singh @Rohit.intelai @Shreya Chakrabarti
+					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott
+					@arundhatee @Clinton B B @Ahmed @Nikita
+					@Magda @Adriana Chen @EvanO @Hugo Oliveira
+					@Neha Soni @Hein@realrajanpaudel
+					@Juber Rahman @Bearbear@Tchouanga @Richárd Ádám Vécsey Dr.
+                    @Asad Ur Rahman @Marco_ @Irina_Gr @Emeka @Boris @Filipe Queiroz Queiroz
+                    @Anna Scott @María V @N. Hussain @nagendra_init_init @AndyP @Boris @Ankita Kesari@Nada Aweaa.
+					@Fabrizio Cacicia @rodbelisario @kareem.h @Jorge Andrés Hernández Jara @Gustavo94 @Richárd Ádám Vécsey Dr.
+					@Fernando Terrazas @HUY DUC VO @Juan Jose Moreno Guadamur @MODF @Faisal Raza Khan @Edna Sawe
+					@Ife Ade @Filipe Queiroz Queiroz  @Wonde @Richárd Ádám Vécsey Dr.@Deep Khurana @Bhuvaneswari @Odaliz Balcazar Balcazar @davisclick
+					@Athanasios Alexopoulos @Atul Awasthi @Stanislav Ladyzhenskiy @Nikhil Tiwari @shahidaac @Edgardo Peregrino @Lakshya Malhotra
+					@D.RICHARD @Muhammad Haris @Mfatikk @Sijoon Lee @Jorge Andrés Hernández Jara @Marcos Bellezi @Axel @Richárd Ádám Vécsey Dr.
+					@David Francisco Dávila Ortega @Fabrizio Cacicia @HUY DUC VO @Hendrawan @Honoré @Nimisha Wagle @Mayur Kanojiya @A.Hamido
+					@Lakshya Malhotra @Robotjelly
+![Day 26 1st](images/day-26-1.png) 	
+![Day 26 2nd](images/day-26-2.png)
 
-## Day 267: February 14th, 2020. #30DaysofUdacity
+
+## Day 27: February 14th, 2020. #30DaysofUdacity
 I am going through all references material present within course in deep.
 - Further Research:
   - [**Dive deeper into OpenCV one of the useful computer vision library.**](https://docs.opencv.org/master/d9/df8/tutorial_root.html)\
@@ -510,21 +534,53 @@ I am going through all references material present within course in deep.
   - I will encourage awesome folks who are going great  
 					@Akash Singh @Rohit.intelai @Shreya Chakrabarti
 					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott
-					@arundhatee @Clinton B @Ahmed @Nikita 
-					@Magda @Adriana Chen @EvanO @Hugo Oliveira
+					@arundhatee @Clinton B @Ahmed @Nikita
+					 @Adriana Chen@Hugo Oliveira
 					@Neha Soni @Hein@realrajanpaudel
-					@Juber Rahman @Bearbear@Tchouanga @Richárd Ádám Vécsey Dr.
-                    @Asad Ur Rahman @Marco_ @Irina_Gr @Emeka @Boris @Filipe Queiroz 
-                    @Anna Scott @María V @N. Hussain @nagendra_init @AndyP @Boris @Ankita Kesari@Nada Aweaa.
-					@Fabrizio Cacicia @rodbelisario @kareem.h @Jorge Andrés Hernández Jara @Gustavo94 @Richárd Ádám Vécsey Dr.
-					@Fernando Terrazas @HUY DUC VO @Juan Jose Moreno Guadamur @MODF @Faisal Raza Khan @Edna Sawe
-					@Ife Ade @Filipe Queiroz  @Wonde @Richárd Ádám Vécsey Dr.@Deep Khurana @Bhuvaneswari @Odaliz Balcazar @davisclick 
-					@Athanasios Alexopoulos @Atul Awasthi @Stanislav Ladyzhenskiy @Nikhil Tiwari @shahidaac @Edgardo Peregrino @Lakshya Malhotra
-					@D.RICHARD @Muhammad Haris @Mfatikk @Sijoon Lee @Jorge Andrés Hernández Jara @Marcos Bellezi @Axel @Richárd Ádám Vécsey Dr. 
-					@David Francisco Dávila Ortega @Fabrizio Cacicia @HUY DUC VO @Hendrawan @Honoré @Nimisha Wagle @Mayur Kanojiya @A.Hamido
+					@Juber Rahman @Bearbear@Tchouanga @Richárd D. @Ankita Kesari
+                                        @Asad Ur Rahman @Marco_ @Irina_Gr @Emeka @Boris @Filipe Queiroz
+                                        @Anna Scott @María V @N. Hussain @nagendra_init  @AndyP @Boris @Ankita Kesari@Nada Ahmed
+					@Fabrizio Cacicia @rodbelisario @kareem Hossam @Jorge Andrés Hernández Jara @Gustavo94 @Richárd D.
+					@Fernando Terrazas @HUY DUC VO @Juan Carlos Kuri Pinto @MODF @Faisal Raza Khan @Edna Sawe
+					@Ife Ade @Filipe Queiroz @Wonde @Richárd D. @Bhuvaneswari @Odaliz Balcazar @Stanislav Ladyzhenskiy @Nikhil Tiwari
+                                        @shahidaac @Edgardo Peregrino @Lakshya Malhotra
+					@D.RICHARD @Muhammad Haris @Sijoon Lee @Jorge Andrés Hernández Jara @Marcos Bellezi @Axel
+					@D-1 @Fabrizio Cacicia @HUY DUC VO @Hendrawan @Nimisha Wagle @Mayur Kanojiya @A.Hamido
+					@Lakshya Malhotra @Robotjelly
 					@Lakshya Malhotra @Robotjelly
 					
 ![Day 27 1st](images/day-27-1.png) 	
 ![Day 27 2nd](images/day-27-2.png) 	
+
+
+## Day 28: February 15th, 2020. #30DaysofUdacity
+I am going through all references material present within course in deep.
+- Further Research:
+  - [**MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol.**](http://mqtt.org/)\
+  - [**MQTT (MQ Telemetry Transport) **](https://internetofthingsagenda.techtarget.com/definition/MQTT-MQ-Telemetry-Transport)\
+  - [**XMPP: IoT protocol winner, or second place to MQTT?**](https://internetofthingsagenda.techtarget.com/feature/XMPP-IoT-protocol-winner-or-second-place-to-MQTT)\
+  - [**Non-real-time data interchange IoT protocols: Consider your options**](https://internetofthingsagenda.techtarget.com/feature/Non-real-time-data-interchange-IoT-protocols-Consider-your-options)\
+  - [**Why are IoT developers confused by MQTT and CoAP?**](https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Why-are-IoT-developers-confused-by-MQTT-and-CoAP)\
+  
+  - I will encourage awesome folks who are going great  
+					@Akash Singh @Rohit.intelai @Shreya Chakrabarti
+					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott
+					@arundhatee @Clinton B @Ahmed @Nikita
+					 @Adriana Chen@Hugo Oliveira
+					@Neha Soni @Hein@realrajanpaudel
+					@Juber Rahman @Bearbear@Tchouanga @Richárd D. @Ankita Kesari
+                                        @Asad Ur Rahman @Marco_ @Irina_Gr @Emeka @Boris @Filipe Queiroz
+                                        @Anna Scott @María V @N. Hussain @nagendra_init  @AndyP @Boris @Ankita Kesari@Nada Ahmed
+					@Fabrizio Cacicia @rodbelisario @kareem Hossam @Jorge Andrés Hernández Jara @Gustavo94 @Richárd D.
+					@Fernando Terrazas @HUY DUC VO @Juan Carlos Kuri Pinto @MODF @Faisal Raza Khan @Edna Sawe
+					@Ife Ade @Filipe Queiroz @Wonde @Richárd D. @Bhuvaneswari @Odaliz Balcazar @Stanislav Ladyzhenskiy @Nikhil Tiwari
+                                        @shahidaac @Edgardo Peregrino @Lakshya Malhotra
+					@D.RICHARD @Muhammad Haris @Sijoon Lee @Jorge Andrés Hernández Jara @Marcos Bellezi @Axel
+					@D-1 @Fabrizio Cacicia @HUY DUC VO @Hendrawan @Nimisha Wagle @Mayur Kanojiya @A.Hamido
+					@Lakshya Malhotra @Robotjelly
+					@Lakshya Malhotra @Robotjelly
+					
+![Day 28 1st](images/day-28-1.png) 	
+![Day 28 2nd](images/day-28-2.png) 	
 
 
