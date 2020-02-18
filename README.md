@@ -557,7 +557,7 @@ I am going through all references material present within course in deep.
 I am going through all references material present within course in deep.
 - Further Research:
   - [**MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol.**](http://mqtt.org/)\
-  - [**MQTT (MQ Telemetry Transport) **](https://internetofthingsagenda.techtarget.com/definition/MQTT-MQ-Telemetry-Transport)\
+  - [**MQTT (MQ Telemetry Transport)**](https://internetofthingsagenda.techtarget.com/definition/MQTT-MQ-Telemetry-Transport)\
   - [**XMPP: IoT protocol winner, or second place to MQTT?**](https://internetofthingsagenda.techtarget.com/feature/XMPP-IoT-protocol-winner-or-second-place-to-MQTT)\
   - [**Non-real-time data interchange IoT protocols: Consider your options**](https://internetofthingsagenda.techtarget.com/feature/Non-real-time-data-interchange-IoT-protocols-Consider-your-options)\
   - [**Why are IoT developers confused by MQTT and CoAP?**](https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Why-are-IoT-developers-confused-by-MQTT-and-CoAP)\
@@ -582,5 +582,32 @@ I am going through all references material present within course in deep.
 					
 ![Day 28 1st](images/day-28-1.png) 	
 ![Day 28 2nd](images/day-28-2.png) 	
+
+## Day 29: February 17th, 2020. #30DaysofUdacity
+I am going through all references material present within course in deep.
+- Further Research:
+  - [** Eclipse Paho MQTT Python client library" connectivity protocol.**](https://pypi.org/project/paho-mqtt/)\
+  - [**Intel® IoT Gateways: Publishing Data to an MQTT Broker Using Python***](https://software.intel.com/en-us/SetupGateway-MQTT)\
+  
+  - I will encourage awesome folks who are going great  
+					@Akash Singh @Rohit.intelai @Shreya Chakrabarti
+					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott
+					@arundhatee @Clinton B @Ahmed @Nikita
+					 @Adriana Chen@Hugo Oliveira
+					@Neha Soni @Hein@realrajanpaudel
+					@Juber Rahman @Bearbear@Tchouanga @Richárd D. @Ankita Kesari
+                                        @Asad Ur Rahman @Marco_ @Irina_Gr @Emeka @Boris @Filipe Queiroz
+                                        @Anna Scott @María V @N. Hussain @nagendra_init  @AndyP @Boris @Ankita Kesari@Nada Ahmed
+					@Fabrizio Cacicia @rodbelisario @kareem Hossam @Jorge Andrés Hernández Jara @Gustavo94 @Richárd D.
+					@Fernando Terrazas @HUY DUC VO @Juan Carlos Kuri Pinto @MODF @Faisal Raza Khan @Edna Sawe
+					@Ife Ade @Filipe Queiroz @Wonde @Richárd D. @Bhuvaneswari @Odaliz Balcazar @Stanislav Ladyzhenskiy @Nikhil Tiwari
+                                        @shahidaac @Edgardo Peregrino @Lakshya Malhotra
+					@D.RICHARD @Muhammad Haris @Sijoon Lee @Jorge Andrés Hernández Jara @Marcos Bellezi @Axel
+					@D-1 @Fabrizio Cacicia @HUY DUC VO @Hendrawan @Nimisha Wagle @Mayur Kanojiya @A.Hamido
+					@Lakshya Malhotra @Robotjelly
+					@Lakshya Malhotra @Robotjelly
+					
+![Day 29 1st](images/day-29-1.png) 	
+![Day 29 2nd](images/day-29-2.png) 
 
 
