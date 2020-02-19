@@ -586,7 +586,7 @@ I am going through all references material present within course in deep.
 ## Day 29: February 17th, 2020. #30DaysofUdacity
 I am going through all references material present within course in deep.
 - Further Research:
-  - [** Eclipse Paho MQTT Python client library" connectivity protocol.**](https://pypi.org/project/paho-mqtt/)\
+  - [**Eclipse Paho MQTT Python client library" connectivity protocol.**](https://pypi.org/project/paho-mqtt/)\
   - [**Intel® IoT Gateways: Publishing Data to an MQTT Broker Using Python***](https://software.intel.com/en-us/SetupGateway-MQTT)\
   
   - I will encourage awesome folks who are going great  
@@ -610,4 +610,43 @@ I am going through all references material present within course in deep.
 ![Day 29 1st](images/day-29-1.png) 	
 ![Day 29 2nd](images/day-29-2.png) 
 
+
+
+Today, I have completed this pledge of #30DaysofUdacity challenge and will encourage everyone to pledge 
+and bind with any relevent challenge which helps to accomplish any long term task(boring) and enhance your productivity each day.
+It's one of the habit of highly successful people. Apart from all the activities of the Intel® Edge AI Scholarship Foundation Course.
+I will invest daily almost 30 min to 1 hour for research stuffs in the field of Mathematics and AI(#90DaysOfLetsDoResearch)
+and will post my progress to github repo [**lets-do-some-research**](https://github.com/asharn/lets-do-some-research) 
+which will help other beginner researcher to get idea and areas where research can be carryout fruitfully without wasting their precious time.
+
+![Each Day Improvement](images/each-day-improvement.jpeg) 
+
+## Day 30: February 18th, 2020. #30DaysofUdacity
+I am going through all references material present within course in deep.
+- Further Research:
+  - [**Create your own video streaming server with Linux**](https://opensource.com/article/19/1/basic-live-video-streaming-server)\
+  - [**OpenCV – Stream video to web browser/HTML page using Flask and OpenCV**](https://www.pyimagesearch.com/2019/09/02/opencv-stream-video-to-web-browser-html-page/)\
+  - [**The Global Internet Phenemena Report Oct 2018**](https://www.sandvine.com/hubfs/downloads/phenomena/phenomena-presentation-final.pdf)\
+
+  - I will encourage awesome folks who are going great  
+					@Akash Singh @Rohit.intelai @Shreya Chakrabarti
+					@Shahnoza @Lesliel @Aarthi Alagammai @Anna Scott
+					@arundhatee @Clinton B @Ahmed @Nikita
+					 @Adriana Chen@Hugo Oliveira
+					@Neha Soni @Hein@realrajanpaudel
+					@Juber Rahman @Bearbear@Tchouanga @Richárd D. @Ankita Kesari
+                                        @Asad Ur Rahman @Marco_ @Irina_Gr @Emeka @Boris @Filipe Queiroz
+                                        @Anna Scott @María V @N. Hussain @nagendra_init  @AndyP @Boris @Ankita Kesari@Nada Ahmed
+					@Fabrizio Cacicia @rodbelisario @kareem Hossam @Jorge Andrés Hernández Jara @Gustavo94 @Richárd D.
+					@Fernando Terrazas @HUY DUC VO @Juan Carlos Kuri Pinto @MODF @Faisal Raza Khan @Edna Sawe
+					@Ife Ade @Filipe Queiroz @Wonde @Richárd D. @Bhuvaneswari @Odaliz Balcazar @Stanislav Ladyzhenskiy @Nikhil Tiwari
+                                        @shahidaac @Edgardo Peregrino @Lakshya Malhotra
+					@D.RICHARD @Muhammad Haris @Sijoon Lee @Jorge Andrés Hernández Jara @Marcos Bellezi @Axel
+					@D-1 @Fabrizio Cacicia @HUY DUC VO @Hendrawan @Nimisha Wagle @Mayur Kanojiya @A.Hamido
+					@Lakshya Malhotra @Robotjelly
+					@Lakshya Malhotra @Robotjelly
+					
+![Day 30 1st](images/day-30-1.png) 	
+![Day 30 2nd](images/day-30-2.png) 
+![Day 30 3rd](images/day-30-3.png) 
 
