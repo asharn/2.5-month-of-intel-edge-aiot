@@ -645,6 +645,50 @@ I am going through all references material present within course in deep.
 					@D-1 @Fabrizio Cacicia @HUY DUC VO @Hendrawan @Nimisha Wagle @Mayur Kanojiya @A.Hamido
 					@Lakshya Malhotra @Robotjelly
 					@Lakshya Malhotra @Robotjelly
+					Aravind.Menon @Avinash Kumar @Aya @AyowoleT @A.Hamido @Carnage
+@Christian Rivera @Dmytro.DL @Dana Robinson @Emmanuel Nombagu @Frida @NaAI
+@Jo Wayne Tan @Richu @Gustavo Aguilar @K.S.  @N.Dagh @VU Anh-Tuan @Fortune Adekogbe @Kundan @Oleksandr Mulyar @Faisal Raza Khan
+@'Kayode Akanni @Khaled @Omer Bin Jawed @Sherif Hesham @SARDOR @Lokesh @Mahzad @Mircea @Viji @Vidhi @Prashant Dandriyal @Patrick Martial Eyamo Zame @MarcinEs.pl @N._ikki
+@Om Vishal @Luis Barragan @Joy T. @Bijaya @Bruno Xavier @Joagovi  @Hayoung Kim(Stella)@Chinmay Das @Yosef Guevara
+@Peace BAKARE @Prince Amit @Amogh Singhal @Maxx @Mustafa Awny @Randomly Roohan @Rahul Joshi @Sarim @Radwa Hassan
+@Shovan Kumar Paul @Vipul Aggarwal @Vikram Venkatesh Gopalan @Wil @Zarreen Reza  @Zenithy
+@Ali Eren @Adrian Vazquez @Anshu @Akash Antony @AkashChhetri @ayivima @Michelle Y
+@adanai @Anshu @Asha @Ashutosh sahu @Aayush Garg @Dhananjay @Bijaya @Darshan
+@Chris F @FnaranjoB   @Hasan Ozyavru @Ivy @Mateusz Zatylny @Snehal Ranjan @Rajas
+@djeff kanda @Dmytro Korolov @donDrey @Hui San Chiam @Joagovi @Kushagra
+@kareem Hossam @Lematsu @N.Dagh @Mahitej @Rafal Lagowski @Samuel Kenneth Gunjal
+@javoweb @mdkcore @Merril Pious Jacob @Obinna Iheanachor @Omer Bin Jawed
+@Peter Chen @Rajas @rodbelisario @Vita @Wil @vcincean @Vinu Narayan @Savan Rangegowda
+@Soumya Tanwar @Shovan Kumar Paul @vpdwivedi @Vignesh Rajkumar @Saqib @Tania Incio
+@Sathish G @Sijoon Lee @salma khouladi @Vinay K @Yujin @Zarreen Reza @vahiwe, @Shankar Warang, 
+@Mayowa, @Kazeem Tijani, , @Jay Singhal @Tushar Goyal @MaryamH @Nirupama Singh   
+@Marwan Saeed @nullbyte91  @Umair Alam @Oj Sindher @Bhuvaneswari  
+@Raamkishore @MCB @Frida @Vin Busquet @realrajanpaudel @Xuehong 
+@Stefano Piovesan @Leah Kamulaza @Nurudeen @Vkjr29 @Diego @Khush 
+@joaomanoel @Jane Pham @Mehul @MODF  @Serjesh @Brown Lira 
+@Ankit Vashisht @Edu T  @Bhadresh Savani @Oricha Abdulrasheed Muhammed 
+@Mayur Kanojiya @Madhur Dixit @Arindam Banerjee   @Logeswaran Sivakumar 
+@Frida @Ananda  @Tanvesh Takawale@ErickDM @Tommy Zihao @tammy_628, @realrajanpaudel, 
+@Lesliel @Ayça Meriç Çelik @Rohit Challa @Mariia  @Oudarjya Sen Sarma  @Akash Antony  @Frida  
+@Elena Kutanov  @Jess  @Kapil C  @Sourav  @Sayed Maheen Basheer  @Pranjal Chaubey  
+@Aarthi Alagammai  @Jess  @Manisha Jhunjhunwala  @Mahitej  @Bhadresh Savani  @Sayali  @LauraT 
+ @Aadil Sayed  @aftab  @Shaistha  @Bearbear  @Harkirat  @Sarah Majors  @adanai  @Mircea  @MihailD  
+ @Temitope Oladokun  @K.S.  @Mohona  @Evi  @Anastasios Chondrogiannis  @Balaji Murthy  @Ivy  
+ @Manish Manandhar  @Juan Carlos Kuri Pinto  @Varez.W  @Khush  @Marwa  @George Christopoulos  
+ @Anna Scott  @THIYAGARAJAN @PaulBruce @Ebinbin Ajagun  @Mahedi  @susyjam  @Nesreensada 
+ @Aleksandra Deis  @Alejandro Galindo  @ayivima  @Arka  @Nabhan Abdulla @Alexander Villasoto @Zik 
+ @Rothwulf @happycoder354 @Abhishek Mahajan @Raunak Sarada @Vikas Bhandary @Rishi @Prashant Dandriyal 
+ @Astha Adhikari @Akash Singh @Bhuvaneswari @Muhammad.Ali @Sourav @Glow_worm_95 @tammy_628 @Ashish Karn 
+ @Sushil @Nesreensada @Bearbear@aftab @Jane Pham @Aditya Nikhil  @Fidel @'Kayode Akanni @'wale 
+ @Aanisha Bhattacharyya @Aarthi Alagammai @Abhishek Kovuri @Abir @Adinalini @aftab @Agnes Sharan 
+ @Ahmed @Ahmed Thabit @Vikas Bhandary @Aishwarya @Aishwarya Nevrekar @Akash Antony @Akash Singh
+ @Akshay Kumar U @Alexander @Amrit Chhetri @Ankit Vashisht @Ankita Kesari @Anshu Trivedi @Anubhav Verma
+ @Ahmed Oumar @Aravind.Menon @Arindam Banerjee @Arka @Arpit Ingle @Asha @Ashish Karn @Ashwani Kumar 
+ @AsimAier @Avinash Kumar @ayivima @Bala Priya @Bearbear @Bhuvaneswari @bkocis @Chris M @deepansh 
+ @Dina AbdelRahman @divyamani @drewbudd - A. Almaguer @Edgardo Peregrino @Elena Kutanov @Elizaveta Timofeeva 
+ @Ellyana Linden @EnricoD @ferdib @ferdib@Viji @Frida @geax @Geetha @George Christopoulos @georkouk 
+ @Gunisha Chaturvedi @Haseeb Ahmed Khan @Hein@realrajanpaudel@Nikita Mahajan @Ilias @irinnahar @Ivy 
+ @Jess @John Anisere @Juan Carlos Kuri Pinto @Juber Rahman @Julius Jack Aboagye @K.S. @Kapil C @Kazeem Tijani @Kesha K. Kaneria @Khush @KSHITIJ @Kushagra @Lakshya Malhotra @lamiae hana @LauraT @Leah Kamulaza @Lesliel @Logeswaran Sivakumar @Logeswaran Sivakumar@Aravind.Menon @Fiza Rasool@Shiva@Gustavo94 @lorforlinux @Lowell Liwat @Madhur Dixit @Maham.Arif @Manish Kumar Gupta @Marcin Sielski @Marco_ @marek @Mariia @Martin @Martin-Philipp Irsch @Marwan Mohamed @Marwan Saeed @Mateusz Zatylny @Md. Abdul Monim @Md. Masud Rana @Md. Masud Rana@Noman @Mobasshir Bhuiyan @MODF @MODF@LauraT@Amardeep Singh @Mohona @Mokit.ai @Moussa.Seck @Muchay @Muhammad.Ali @Muhammad Habib @Muhammad.Ali @Neha Soni @Nesreensada @Nikita @Nirupama Singh @Nitish Raj Pathak @nullbyte91 @Nurudeen @OS_the_Person_@Abhishek Kovuri @Oudarjya Sen Sarma @Patricia B @PaulBruce @Pranjal Chaubey @Prashant Dandriyal @Priyank Rastogi @Qasim Hassan @Raamkishore @Rahul Joshi @Rayhan @Rayhan@Mobasshir Bhuiyan @Richter @Richu @Rimon @Rohan Jadhav @Rohit.intelai @sago @salma khouladi @Sarah Majors @Sarang Suresh Kakkoth @Sayali @Sergei Cherniaev @Shahnoza @Shaima'a @Shaistha @Sheldon @Shivam Garg @Shivam Garg @shoaib @Shreya Chakrabarti @Soumya @Stavros Dimopoulos @strang @Sushmita @tammy_628 @Tanvesh Takawale @Temitope Oladokun @theIrishMan @Umair Alam @Veena @Victoria @Vidhi @Viji @Vin Busquet @Vincent Olagbemide @Xander@Ashish Karn @Yujin @Yuvraj Jain @ZackCodesAI @Zik
 					
 ![Day 30 1st](images/day-30-1.png) 	
 ![Day 30 2nd](images/day-30-2.png) 
